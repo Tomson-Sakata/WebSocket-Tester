@@ -1,19 +1,6 @@
-# websocket-tester
+# WebSocket-Tester
+This is a web application that can test the connection to the WebSocket server, sending and receiving messages.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Requirement
+* Vue 2.6.11
+* Vuetify 2.2.11
